@@ -16,7 +16,7 @@ The webpage include the following:
 
 ## Running the Website
 1. **Download `aadelafuente_web_profile` from github**
-2. Open **about_me.html** in any web browser
+2. Open **`about_me.html`** in any web browser
 3. **Angelo dela Fuente's Web Profile** will be seen
 
 ## Technologies Used
